@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/abhinavjain241-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/abhinavjain241/)](https://www.linkedin.com/in/abhinavjain241/)
 [![Twitter Badge](https://img.shields.io/badge/-@abhinavjain241-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhinavjain241)](https://twitter.com/abhinavjain241)
 
-- �Currently at [@bloomberg](https://github.com/bloomberg) working as a Software Engineer.
+- Currently at [@bloomberg](https://github.com/bloomberg) working as a Software Engineer.
 - I was previously at [@flipkart](https://github.com/Flipkart) in the User Generated Content team.
 
 [![abhinavjain241's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavjain241&show_icons=true&include_all_commits=true)](https://github.com/abhinavjain241)
