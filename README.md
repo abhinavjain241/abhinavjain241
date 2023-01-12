@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Currently at [@bloomberg](https://github.com/bloomberg) working as a Senior Software Engineer.
 - I was previously at [@flipkart](https://github.com/Flipkart) in the User Generated Content team.
 
-[![abhinavjain241's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavjain241&show_icons=true&include_all_commits=true)](https://github.com/abhinavjain241)
+<!-- [![abhinavjain241's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavjain241&show_icons=true&include_all_commits=true)](https://github.com/abhinavjain241) -->
 
 
 ----------------
