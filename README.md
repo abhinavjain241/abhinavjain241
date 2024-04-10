@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@abhinavjain241-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abhinavjain241)](https://twitter.com/abhinavjain241)
 
 - Currently at [@bloomberg](https://github.com/bloomberg) working as a Senior Software Engineer in the Document Search and Analytics team.
-- I was previously at [@flipkart](https://github.com/Flipkart) in the User Generated Content team.
+- I was previously at [@flipkart](https://github.com/Flipkart) in the UGC team improving user contributions and engagement
 - Spent a summer at [@americanexpress](https://github.com/americanexpress) researching on online boosting methods for credit card fraud detection
 - Spent some time at Jean Daniel-Dessimoz's lab at [HEIG-VD](https://github.com/heigvd-software-engineering) working on robotics interplatform communication
 
