@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - Currently at [@bloomberg](https://github.com/bloomberg) working as a Senior Software Engineer in the Document Search and Analytics team.
 - I was previously at [@flipkart](https://github.com/Flipkart) in the UGC team improving user contributions and engagement
-- Spent a summer at [@americanexpress](https://github.com/americanexpress) researching on online boosting methods for credit card fraud detection
-- Spent some time at Jean Daniel-Dessimoz's lab at [HEIG-VD](https://github.com/heigvd-software-engineering) working on robotics interplatform communication
 
 <!-- [![abhinavjain241's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavjain241&show_icons=true&include_all_commits=true)](https://github.com/abhinavjain241) -->
 
